@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tile Drills]]></title>
         <description><![CDATA[Tile Drills]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tile-drills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 20:00:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 20:00:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tile-drills/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Earth oxides are added to the smelted glass from recycled bottles to create this stunning palette of iridescent mosaics. Fit these in your home and you will never be short of dinner conversation.</p>]]></description>
+            <link>https://thegrid.ai/tile-drills/790bc364-e9d9-4ac6-9c49-089be3b3d1a2/index.html</link>
+            <guid isPermaLink="false">790bc364-e9d9-4ac6-9c49-089be3b3d1a2</guid>
+            <pubDate>Fri, 22 Jan 2016 20:00:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p> drill bits</p>]]></description>
-            <link>undefined0793dc1d-329e-40eb-837b-0a81e9fc9806/index.html</link>
+            <link>https://thegrid.ai/tile-drills/0793dc1d-329e-40eb-837b-0a81e9fc9806/index.html</link>
             <guid isPermaLink="false">0793dc1d-329e-40eb-837b-0a81e9fc9806</guid>
             <pubDate>Fri, 22 Jan 2016 20:00:41 GMT</pubDate>
         </item>
