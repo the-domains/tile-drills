@@ -1,6 +1,6 @@
 name: Tile Drills
 favicon: null
-layout_spectrum: 0.24554
+layout_spectrum: 0.76207
 typography_spectrum: 0.1645688028074801
 title: TDB
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3125
-  lightness: 0.10036608413793147
+  brandStrength: 0.25
+  lightness: 0.125
   saturation: 0.5
   rhythmicContrast: 0.6197863125707954
 purpose: []
